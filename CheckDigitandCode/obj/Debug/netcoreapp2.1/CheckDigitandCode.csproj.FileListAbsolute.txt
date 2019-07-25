@@ -1,0 +1,11 @@
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\bin\Debug\netcoreapp2.1\CheckDigitandCode.deps.json
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\bin\Debug\netcoreapp2.1\CheckDigitandCode.dll
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\bin\Debug\netcoreapp2.1\CheckDigitandCode.pdb
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\obj\Debug\netcoreapp2.1\CheckDigitandCode.csprojAssemblyReference.cache
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\obj\Debug\netcoreapp2.1\CheckDigitandCode.csproj.CoreCompileInputs.cache
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\obj\Debug\netcoreapp2.1\CheckDigitandCode.AssemblyInfoInputs.cache
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\obj\Debug\netcoreapp2.1\CheckDigitandCode.AssemblyInfo.cs
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\obj\Debug\netcoreapp2.1\CheckDigitandCode.dll
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\obj\Debug\netcoreapp2.1\CheckDigitandCode.pdb
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\bin\Debug\netcoreapp2.1\CheckDigitandCode.runtimeconfig.json
+D:\Personal\CheckDigit-and-CheckCode\CheckDigitandCode\bin\Debug\netcoreapp2.1\CheckDigitandCode.runtimeconfig.dev.json
